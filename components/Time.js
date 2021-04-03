@@ -21,7 +21,7 @@ const StyledContainer = styled.div`
 
 const StyledTime = styled.h1`
    {
-    font-size: 10rem;
+    font-size: 12vw;
     margin: 0px;
   }
 `;
@@ -29,7 +29,7 @@ const StyledTime = styled.h1`
 const StyledWish = styled.h3`
    {
     font-weight: 300;
-    font-size: 3.7rem;
+    font-size: 4vw;
     margin: 0px;
     text-align: center;
   }
